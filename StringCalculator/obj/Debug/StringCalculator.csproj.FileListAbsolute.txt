@@ -1,0 +1,9 @@
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\cfilipas\Documents\Visual Studio 2012\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
+D:\Repositories\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+D:\Repositories\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+D:\Repositories\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
